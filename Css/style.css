@@ -1,0 +1,37 @@
+
+body{
+    background-image: url("negative-space-high-contrast-milky-way-472x708.jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    position: relative;
+}
+#reset,#startStop{
+    width: 130px;
+    height: 40px;
+    margin-left:15px;
+    margin-top:25px;
+    background-color: rgba(29, 28, 28,.5);
+    color:white;
+    font-weight: bold;
+}
+#reset:hover,#startStop:hover{
+    color:rgb(87, 241, 241);
+}
+.container{
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top:270px;
+}
+
+.buttons{
+    text-align: center;
+
+}
+
